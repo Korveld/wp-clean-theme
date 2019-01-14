@@ -1,1 +1,1 @@
-# wp-clean-theme
+# WP clean theme
